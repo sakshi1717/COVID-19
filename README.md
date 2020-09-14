@@ -23,5 +23,4 @@ has the most homeless people counted in the street will likely have more crimes.
 likely to have less crimes.
 
 The dataset has been taken from
-(http://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.
-names)
+(http://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.names)
